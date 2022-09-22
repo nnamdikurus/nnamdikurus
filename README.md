@@ -10,7 +10,7 @@ I'm a prospective Software Engineer, web developer, and Community Engineer. I'm 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing nnamdiakurunwa@gmail.com.
+- 📫 You can contact me by emailing nnamdiakurunwa@gmail.com.
 
 ---
 
